@@ -5,3 +5,4 @@
 
 - 🤔 I’m currently learning DL
 - 💬 Ask me about everything
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haller-x)]
