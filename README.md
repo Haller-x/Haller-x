@@ -7,3 +7,5 @@
 - NLP Specialist
 - Explainability matters!!
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/haller-x)](https://leetcode.com/haller-x)
+
